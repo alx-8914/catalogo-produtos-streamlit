@@ -1,0 +1,21 @@
+Create Table Products(
+  id INT IDENTITY(1,1) PRIMARY KEY,
+  nome NVARCHAR(255),
+  descricao NVARCHAR(MAX),
+  preco DECIMAL(18, 2),
+  imagem_url NVARCHAR(2083)
+)
+
+Banco de Dados Azure SQL;
+
+nome do banco de dados: sqllab001dbdeveastus
+nome do servidor: dbsrvdeveastuslab003
+
+admin: alxtronicadminuser89561475
+senha: P@$$w0rdd2025@l3xTr0n!cD3v
+
+nome da conta de armazenamento: stadevlab01eastus001
+
+ALexsandrodaSilva@fulldeveloper.onmicrosoft.com
+
+INSERT INTO Products (nome, preco, descricao, imagem_url) VALUES ('{product_name}', {product_price}, '{product_description}', '{imagem_url}')
