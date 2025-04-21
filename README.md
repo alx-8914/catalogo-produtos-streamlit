@@ -24,6 +24,15 @@ Este projeto foi desenvolvido como parte do desafio da DIO - Microsoft Applicati
 
 ---
 
+## 🧠 Aprendizados e Insights
+Utilização real de serviços em nuvem (Azure) integrados com Python
+
+Estruturação de um sistema simples de cadastro com visual moderno
+
+Uso de uuid para evitar conflitos em nomes de arquivos
+
+Implementação de boas práticas com feedback visual para o usuário (mensagens de sucesso e erro)
+
 ## 🎯 Como Executar Localmente
 
 1. Clone o repositório:
@@ -31,9 +40,22 @@ Este projeto foi desenvolvido como parte do desafio da DIO - Microsoft Applicati
    git clone https://github.com/alx-8914/catalogo-produtos-streamlit.git
    cd catalogo-produtos-streamlit
 
-Cadastro de Produtos | Listagem de Produtos
- | 
+2. Execute a aplicação:
 
+   ```bash
+      streamlit run main.py
 
+📸 Prints do Projeto:
+   <div class=align-item=left'>
+      <p>Tela Inicial</p>
+      <img src="Captura de tela 2025-04-21 004833.png" width="300" height="250">
+      <p>Tela de sucesso com efeito Balões</p>
+      <img src="Cadastro sucess.png" width="500" height="250">
+      <p>Lista dos Produtos</p>
+      <img src="lista ok.png" width="500" height="250">   
+   </div>
+  
+
+<br>
  👨‍💻 Autor
 Alexsandro da Silva
