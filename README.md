@@ -54,8 +54,11 @@ Implementação de boas práticas com feedback visual para o usuário (mensagens
       <p>Lista dos Produtos</p>
       <img src="lista ok.png" width="500" height="250">   
    </div>
-  
-
-<br>
+   <br>
+   <div>
+      <p>Demonstração em vídeo:</p>
+      https://github.com/user-attachments/assets/f2268688-3ecd-4380-9255-392b816ac3b3
+   </div>
+   <br>
  👨‍💻 Autor
 Alexsandro da Silva
